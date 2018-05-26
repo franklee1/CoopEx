@@ -1,7 +1,6 @@
 # CoopEx - an open-source crypto currency exchange
 
 [![Build Status](https://travis-ci.org/rubykube/peatio.svg?branch=master)](https://travis-ci.org/rubykube/peatio)
-[![Telegram Chat](https://cdn.rawgit.com/Patrolavia/telegram-badge/8fe3382b/chat.svg)](https://t.me/peatio)
 
 ## Introduction
 
